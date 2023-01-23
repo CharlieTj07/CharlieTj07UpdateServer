@@ -1,2 +1,2 @@
-## Night Generations v1.0
+## Night Generations V1.0
 - Green Hill Zone is done
