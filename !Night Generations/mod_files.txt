@@ -10,4 +10,5 @@ add disk/bb/#ghz205.ar.00
 add disk/bb/#ghz205.arl
 add disk/bb2/#pam000.ar.00
 add disk/bb2/#pam000.arl
+add Codes.hmm
 add mod.ini
