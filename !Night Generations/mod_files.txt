@@ -1,1 +1,13 @@
+add disk/bb/#ghz100.ar.00
+add disk/bb/#ghz100.arl
+add disk/bb/#ghz103.ar.00
+add disk/bb/#ghz103.arl
+add disk/bb/#ghz104.ar.00
+add disk/bb/#ghz104.arl
+add disk/bb/#ghz200.ar.00
+add disk/bb/#ghz200.arl
+add disk/bb/#ghz205.ar.00
+add disk/bb/#ghz205.arl
+add disk/bb2/#pam000.ar.00
+add disk/bb2/#pam000.arl
 add mod.ini
